@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "compile:sass": "sass --watch style/scss:style/css"
+    "compile:sass": "sass --watch src/scss:src/css"
   },
   "repository": {
     "type": "git",
